@@ -2,7 +2,7 @@ package com.company;
 
 public class Circle {
 
-    public void Circle(double r) {
+    public Circle(double r) {
         radius = r;
     }
     public double area()
